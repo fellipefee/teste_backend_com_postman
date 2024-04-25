@@ -1,0 +1,27 @@
+{
+	"id": "0e863401-f882-4c38-8e4f-11ec139e5f21",
+	"values": [
+		{
+			"key": "dev",
+			"value": "https://swapi.dev/api/",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "prod",
+			"value": "https://serverest.dev/",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-04-25T20:14:05.369Z",
+	"_postman_exported_using": "Postman/10.24.22"
+}
